@@ -206,6 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# 데이터 폴더 제외
+# 데이터 폴더/파일 제외
 data/
 html/
+*.csv
